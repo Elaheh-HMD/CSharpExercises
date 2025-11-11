@@ -1,0 +1,14 @@
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/bin/Debug/net9.0/Ovning2_Konvertera
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/bin/Debug/net9.0/Ovning2_Konvertera.deps.json
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/bin/Debug/net9.0/Ovning2_Konvertera.runtimeconfig.json
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/bin/Debug/net9.0/Ovning2_Konvertera.dll
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/bin/Debug/net9.0/Ovning2_Konvertera.pdb
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.AssemblyInfoInputs.cache
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.AssemblyInfo.cs
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.csproj.CoreCompileInputs.cache
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.dll
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/refint/Ovning2_Konvertera.dll
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.pdb
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/Ovning2_Konvertera.genruntimeconfig.cache
+/Users/elaheh/Desktop/CSharpExercises/Ovning2_Konvertera/obj/Debug/net9.0/ref/Ovning2_Konvertera.dll

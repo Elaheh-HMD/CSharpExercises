@@ -1,0 +1,14 @@
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/bin/Debug/net9.0/Ovning1_Summa
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/bin/Debug/net9.0/Ovning1_Summa.deps.json
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/bin/Debug/net9.0/Ovning1_Summa.runtimeconfig.json
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/bin/Debug/net9.0/Ovning1_Summa.dll
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/bin/Debug/net9.0/Ovning1_Summa.pdb
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.AssemblyInfoInputs.cache
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.AssemblyInfo.cs
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.csproj.CoreCompileInputs.cache
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.dll
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/refint/Ovning1_Summa.dll
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.pdb
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/Ovning1_Summa.genruntimeconfig.cache
+/Users/elaheh/Desktop/CSharpExercises/Ovning1_Summa/obj/Debug/net9.0/ref/Ovning1_Summa.dll
