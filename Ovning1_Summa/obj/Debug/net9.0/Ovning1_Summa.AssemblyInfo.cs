@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ovning1_Summa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f558ccde2d97fbb1ad5b4ebe65298e046d435516")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ovning1_Summa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ovning1_Summa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
